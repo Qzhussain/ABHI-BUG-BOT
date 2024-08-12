@@ -10,7 +10,7 @@ global.location = "India, Kerala, Idukki"
 
 global.ownernumber = '6282327305047'  //creator number
 global.ownername = 'QUEENZ' //owner name
-global.botname = 'QZBOT' //name of the bot
+global.botname = 'QZHBOT' //name of the bot
 
 //sticker details
 global.packname = '🎯𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃'
